@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+env/
+.venv/
+
+# Logs and output
+*.log
+dashboard/predictions.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Model files
+*.ckpt
+*.h5
+model/
